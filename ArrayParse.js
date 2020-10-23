@@ -1,6 +1,6 @@
+
+
 // 1. Write a function that takes an array of strings and determines how many times each string appears in the array. Should return an object. 
-
-
 const strings = ["Barett", "Tifa", "yuffie", "Vincent", "Cloud", "cloud", "Aerith", "Cid", "zack", "Yuffie", "Red", "Zack", "Yuna", "Kain", "tifa"]
 
   function countName(array){
